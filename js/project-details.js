@@ -1,6 +1,14 @@
 // Example project data (same as in your main script)
 const projects = [
     {
+        id: "project0",
+        name: "House Price Predictor in Poland",
+        image: "assets\\images\\house-price-prediction-poland.png",
+        github: "https://github.com/aliyusifov99/poland_house_price_prediction",
+        demo: "https://streamlit-frontend-2vop66ad7a-uc.a.run.app/",
+        description: "This project is a comprehensive application for predicting house and rent prices in Poland using various machine learning models. The application is built with FastAPI for the backend API and Streamlit for the frontend UI. The project includes data preprocessing, data versioning, model training, and deployment on Google Cloud Platform (GCP).",
+        techStack: ["FastAPI", "MLflow", "Streamlit", "Requests", "DVC", "Docker", "Google Cloud","Pandas", "Scikit-learn", "Joblib", "CatBoost", "XGBoost", "LightGBM"]
+    {
         id: "project1",
         name: "Petrobot",
         image: "assets\\images\\petrobot.png",
