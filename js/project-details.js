@@ -2,7 +2,7 @@
 const projects = [
     {
         id: "project0",
-        name: "Housing Price Prediction in Poland",
+        name: "House Price Prediction Poland",
         image: "assets\\images\\house-price-prediction-poland.png",
         github: "https://github.com/aliyusifov99/poland_house_price_prediction",
         demo: "https://streamlit-frontend-2vop66ad7a-uc.a.run.app/",
