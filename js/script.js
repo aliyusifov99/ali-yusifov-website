@@ -10,7 +10,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
 // JavaScript for rotating job titles
 document.addEventListener('DOMContentLoaded', function() {
-    const titles = ["Machine Learning Engineer", "Data Scientist", "AI Enthusiast"];
+    const titles = ["Data Engineer", "Data Scientist", "AI Enthusiast"];
     let index = 0;
     let charIndex = 0;
     let isDeleting = false;
