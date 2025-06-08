@@ -6,6 +6,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
 const projects = [
     {
+        id: "project23940832",
+        name: "Youtube Trend Analysis Poland",
+        image: "assets/images/youtube-trend-analysis.png",
+        github: "https://github.com/aliyusifov99/youtube_trend_analysis",
+        demo: "https://youtubetrendanalysis-ugyp5ndsbhhsfurieiukhw.streamlit.app/"
+    },
+    {
         id: "project0",
         name: "House Price Prediction Poland",
         image: "assets/images/house-price-prediction-poland.png",
