@@ -1,6 +1,15 @@
 // Example project data (same as in your main script)
 const projects = [
     {
+        id: "project23940832",
+        name: "Youtube Trend Analysis Poland",
+        image: "assets/images/youtube-trend-analysis.png",
+        github: "https://github.com/aliyusifov99/youtube_trend_analysis",
+        demo: "https://youtubetrendanalysis-ugyp5ndsbhhsfurieiukhw.streamlit.app/",
+        description: "An end-to-end data engineering project that builds an automated pipeline to ingest, process, and visualize daily trending YouTube video data for the Polish region.",
+        techStack: ["Spark", "Azure Databricks", "Github Actions", "Azure Data Lake Storage Gen 2", "Streamlit"]
+    },    
+    {
         id: "project0",
         name: "House Price Prediction Poland",
         image: "assets\\images\\house-price-prediction-poland.png",
