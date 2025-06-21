@@ -2,6 +2,11 @@ document.addEventListener('DOMContentLoaded', function() {
     // Example certification data
     const certifications = [
         {
+            title: "Microsoft Certified: Azure Data Fundamentals",
+            link: "https://learn.microsoft.com/api/credentials/share/en-us/AliYusifov-9282/74F23950AAAC0058?sharingId=74B69B8F4F89B4EF",
+            logo: "https://logos-world.net/wp-content/uploads/2020/09/Microsoft-Logo.png" // Logo URL for Microsoft
+        },
+        {
             title: "Microsoft Certified: Azure AI Fundamentals",
             link: "https://learn.microsoft.com/en-us/users/aliyusifov-9282/credentials/3fb0633324d5b928?ref=https%3A%2F%2Fwww.linkedin.com%2F",
             logo: "https://logos-world.net/wp-content/uploads/2020/09/Microsoft-Logo.png" // Logo URL for Microsoft
